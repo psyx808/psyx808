@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="PSYX808 — self-taught systems operator">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="62%" r="75%">
+      <stop offset="0%" stop-color="#1a0a2e"/>
+      <stop offset="52%" stop-color="#0a0a16"/>
+      <stop offset="100%" stop-color="#050509"/>
+    </radialGradient>
+    <linearGradient id="floorFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#00FF41" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#8B00FF" stop-opacity="0.05"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="floorClip"><rect x="0" y="170" width="1200" height="130"/></clipPath>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000000" opacity="0.28"/>
+    </pattern>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800;900&amp;display=swap');
+    @keyframes gridmove { from { transform: translateY(0); }   to { transform: translateY(22px); } }
+    @keyframes flick    { 0%,89%,100% { opacity:1 } 90% { opacity:.35 } 92% { opacity:1 } 95% { opacity:.6 } 96% { opacity:1 } }
+    @keyframes gR { 0%,100%{transform:translate(0,0)} 15%{transform:translate(3px,-1px)} 35%{transform:translate(-2px,1px)} 55%{transform:translate(2px,0)} 78%{transform:translate(-3px,0)} }
+    @keyframes gB { 0%,100%{transform:translate(0,0)} 15%{transform:translate(-3px,1px)} 35%{transform:translate(2px,-1px)} 55%{transform:translate(-2px,0)} 78%{transform:translate(3px,0)} }
+    @keyframes sweep { from { transform: translateY(-6px); } to { transform: translateY(306px); } }
+    @keyframes cyc   { 0%,100%{ stroke:#00FF41 } 50%{ stroke:#00E5FF } }
+    .floor  { animation: gridmove 1.4s linear infinite; }
+    .title  { font-family:'Orbitron','Poppins',sans-serif; font-weight:800; font-size:92px; letter-spacing:6px; }
+    .sub    { font-family:'Orbitron','Poppins',sans-serif; font-weight:700; font-size:16px; letter-spacing:8px; }
+    .neon   { animation: flick 6s steps(1,end) infinite; }
+    .aberR  { animation: gR 2.2s steps(2,end) infinite; }
+    .aberB  { animation: gB 2.2s steps(2,end) infinite; }
+    .sweep  { animation: sweep 3.6s linear infinite; }
+    .bracket{ animation: cyc 3s ease-in-out infinite; }
+  </style>
+
+  <!-- backdrop -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- perspective grid floor -->
+  <g clip-path="url(#floorClip)">
+    <g class="floor" stroke="url(#floorFade)" stroke-width="1.4">
+      <line x1="0" y1="172" x2="1200" y2="172"/>
+      <line x1="0" y1="176" x2="1200" y2="176"/>
+      <line x1="0" y1="182" x2="1200" y2="182"/>
+      <line x1="0" y1="190" x2="1200" y2="190"/>
+      <line x1="0" y1="201" x2="1200" y2="201"/>
+      <line x1="0" y1="215" x2="1200" y2="215"/>
+      <line x1="0" y1="233" x2="1200" y2="233"/>
+      <line x1="0" y1="255" x2="1200" y2="255"/>
+      <line x1="0" y1="281" x2="1200" y2="281"/>
+      <line x1="0" y1="311" x2="1200" y2="311"/>
+    </g>
+    <g stroke="#8B00FF" stroke-opacity="0.45" stroke-width="1.4">
+      <line x1="0"    y1="300" x2="600" y2="170"/>
+      <line x1="120"  y1="300" x2="600" y2="170"/>
+      <line x1="240"  y1="300" x2="600" y2="170"/>
+      <line x1="360"  y1="300" x2="600" y2="170"/>
+      <line x1="480"  y1="300" x2="600" y2="170"/>
+      <line x1="600"  y1="300" x2="600" y2="170"/>
+      <line x1="720"  y1="300" x2="600" y2="170"/>
+      <line x1="840"  y1="300" x2="600" y2="170"/>
+      <line x1="960"  y1="300" x2="600" y2="170"/>
+      <line x1="1080" y1="300" x2="600" y2="170"/>
+      <line x1="1200" y1="300" x2="600" y2="170"/>
+    </g>
+  </g>
+
+  <!-- horizon glow line -->
+  <rect x="0" y="169" width="1200" height="2.5" fill="#00FF41" opacity="0.9" filter="url(#glow)"/>
+
+  <!-- title: RGB-split ghosts + crisp tri-color word (PSY purple / X cyan / 808 green) -->
+  <g class="neon" text-anchor="middle">
+    <text x="600" y="128" class="title aberB" fill="#00E5FF" opacity="0.40">PSYX808</text>
+    <text x="600" y="128" class="title aberR" fill="#FF2E97" opacity="0.40">PSYX808</text>
+    <text x="600" y="128" class="title" filter="url(#glow)">
+      <tspan fill="#8B00FF">PSY</tspan><tspan fill="#00E5FF">X</tspan><tspan fill="#00FF41">808</tspan>
+    </text>
+  </g>
+
+  <!-- subtitle -->
+  <text x="600" y="156" text-anchor="middle" class="sub" fill="#B98CFF">// SELF-TAUGHT &#183; ECLECTIC &#183; ANTI-DOGMA</text>
+
+  <!-- CRT scanlines + moving sweep -->
+  <rect width="1200" height="300" fill="url(#scan)"/>
+  <rect class="sweep" x="0" width="1200" height="3" y="0" fill="#00FF41" opacity="0.14"/>
+
+  <!-- HUD corner brackets -->
+  <g class="bracket" fill="none" stroke="#00FF41" stroke-width="2.5">
+    <path d="M14 40 L14 14 L40 14"/>
+    <path d="M1186 40 L1186 14 L1160 14"/>
+    <path d="M14 260 L14 286 L40 286"/>
+    <path d="M1186 260 L1186 286 L1160 286"/>
+  </g>
+</svg>
