@@ -9,6 +9,7 @@
 </div>
 
 ```bash
+
 psyx808@matrix:~$ ./boot.sh --profile
 
   [ OK ]  mounting  /dev/curiosity
