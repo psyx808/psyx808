@@ -27,13 +27,13 @@ psyx808@matrix:~$ ./boot.sh --profile
 
 psyx808@matrix:~$ whoami
 
-  ┌───────────────────────────────────────────────────────────┐
-  │  A self-taught, eclectic operator, no tribe, no dogma.    │
-  │  I test everything and keep only what actually works.     │
-  │  distro, editor, stack: the tool serves the job,          │
-  │  not the other way around. I choose what fits and let     │
-  │  the fanboys fight it out among themselves.               │
-  └───────────────────────────────────────────────────────────┘
+  ┌─────────────────────────────────────────────────────────┐
+  │  A self-taught, eclectic operator, no tribe, no dogma.  │
+  │  I test everything and keep only what actually works.   │
+  │  distro, editor, stack: the tool serves the job,        │
+  │  not the other way around. I choose what fits and let   │
+  │  the fanboys fight it out among themselves.             │
+  └─────────────────────────────────────────────────────────┘
 
 psyx808@matrix:~$ cat /etc/motd
 
