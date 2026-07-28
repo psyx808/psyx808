@@ -100,9 +100,9 @@ psyx808@matrix:~$ cat /etc/motd
 <!-- TROPHIES -->
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=PSYX808&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" /> -->
-<!--
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,24,20,12,6&section=header" width="80%" />
--->
+
 <!-- ░░░  SNAKE · needs the snake GitHub Action (ask me for the YAML)  ░░░ -->
 
 <img src="https://raw.githubusercontent.com/PSYX808/PSYX808/output/github-contribution-grid-snake-dark.svg" width="95%" />
