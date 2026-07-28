@@ -111,9 +111,7 @@ psyx808@matrix:~$ cat /etc/motd
 
 <br>
 
-```diff
-+ Stay curious - Explore - Experiment - Break - Learn - Document everything +
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=4000&pause=1200&color=00FF41&center=true&vCenter=true&repeat=false&width=900&height=45&lines=%2B+Stay+curious+-+Explore+-+Experiment+-+Break+-+Learn+-+Document+everything+%2B" width="90%" />
 
 <img src="https://komarev.com/ghpvc/?username=PSYX808&style=for-the-badge&color=8B00FF&label=VIEWS" />
 
