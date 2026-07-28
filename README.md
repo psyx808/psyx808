@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/PSYX808/PSYX808/main/assets/banner.svg" width="100%" alt="Self-taught Sys Admin" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,12,20,24,0&section=header" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=0&color=gradient&customColorList=6,12,20,24,0&section=header" width="80%" />
 
 
 </div>
