@@ -40,7 +40,7 @@ psyx808@matrix:~$ whoami
 
 psyx808@matrix:~$ cat /etc/motd
 
-  "🐺 Vulnerability is the hunter's disguise. 🎭" ~PSYX808
+  "🐺Vulnerability is the hunter's disguise.🎭" ~PSYX808
 ```
 
 <div align="center">
