@@ -8,10 +8,6 @@
 
 </div>
 
-```
-
-```
-
 ```bash
 psyx808@matrix:~$ ./boot.sh --profile
 
