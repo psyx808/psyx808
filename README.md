@@ -2,7 +2,7 @@
 
 [![Signal](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=28&pause=800&color=00FF41&center=true&vCenter=true&width=820&height=80&lines=root%40psyx808%3A~%23+.%2Fjack_in;%3E+Uplink+established+%2F%2F+Welcome+to+the+grid;%3E+Self-taught+%C2%B7+Eclectic+%C2%B7+Anti-dogma;%3E+I+break+systems+to+understand+them)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/PSYX808/PSYX808/main/assets/banner.svg"" width="100%" alt="Self-taught Sys Admin" />
+<img src="https://raw.githubusercontent.com/PSYX808/PSYX808/main/assets/banner.svg" width="100%" alt="Self-taught Sys Admin" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,12,20,24,0&section=header" width="80%" />
 
