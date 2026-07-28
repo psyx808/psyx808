@@ -1,12 +1,25 @@
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║  SPECIAL REPOSITORY · github.com/PSYX808/PSYX808                    ║ -->
+<!-- ║  If your GitHub handle differs from PSYX808, replace it everywhere. ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+
+<!-- ░░░░░░░░░░░░░░░░░░░  HEADER · gradient wave  ░░░░░░░░░░░░░░░░░░░ -->
+
 <div align="center">
 
-[![Signal](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=28&pause=800&color=00FF41&center=true&vCenter=true&width=820&height=80&lines=root%40psyx808%3A~%23+.%2Fjack_in;%3E+Uplink+established+%2F%2F+Welcome+to+the+grid;%3E+Self-taught+%C2%B7+Eclectic+%C2%B7+Anti-dogma;%3E+I+break+systems+to+understand+them)](https://git.io/typing-svg)
+<!-- ░░░  TELEPROMPTER · top of everything · cyberpunk terminal  ░░░ -->
+
+[![Signal](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=28&pause=800&color=00FF41&center=true&vCenter=true&width=820&height=80&lines=root%40psyx808%3A~%23+.%2Fjack_in;%3E+uplink+established+%2F%2F+welcome+to+the+grid;%3E+self-taught+%C2%B7+eclectic+%C2%B7+anti-dogma;%3E+i+break+systems+to+learn+them+%E2%80%94+then+automate+them)](https://git.io/typing-svg)
+
+<!-- ░░░  BANNER · custom animated SVG (drop banner.svg into /assets)  ░░░ -->
 
 <img src="https://raw.githubusercontent.com/PSYX808/PSYX808/main/assets/banner.svg" width="100%" alt="Self-taught Sys Admin" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,12,20,24,0&section=header" width="80%" />
 
 </div>
+
+<!-- ░░░░░░░░░░░░░░░░░░░  IDENTITY · ASCII sigil  ░░░░░░░░░░░░░░░░░░░ -->
 
 ```
 ██████╗ ███████╗██╗   ██╗██╗  ██╗
@@ -22,6 +35,8 @@
     ╚█████╔╝╚██████╔╝╚█████╔╝
      ╚════╝  ╚═════╝  ╚════╝ 
 ```
+
+<!-- ░░░░░░░░░░░░░░░░░░░  BOOT · terminal narrative  ░░░░░░░░░░░░░░░░░░░ -->
 
 ```bash
 psyx808@matrix:~$ ./boot.sh --profile
@@ -50,6 +65,8 @@ psyx808@matrix:~$ cat /etc/motd
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,24,20,12,6&section=header" width="80%" />
+
+<!-- ░░░░░░░░░░░░░░░░░░░  ARSENAL · tech stack  ░░░░░░░░░░░░░░░░░░░ -->
 
 ### `>_ toolkit`
 
@@ -82,7 +99,7 @@ psyx808@matrix:~$ cat /etc/motd
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,12,20,24,0&section=header" width="80%" />
 
-<!-- METRICS · telemetry -->
+<!-- ░░░░░░░░░░░░░░░░░░░  METRICS · telemetry  ░░░░░░░░░░░░░░░░░░░ -->
 
 ### `>_ telemetry`
 
@@ -91,23 +108,23 @@ psyx808@matrix:~$ cat /etc/motd
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PSYX808&hide_border=false&background=0D1117&border=8B00FF&stroke=00FF41&ring=FF2E97&fire=FFB300&currStreakNum=00E5FF&sideNums=00FF41&currStreakLabel=FF2E97&sideLabels=C9D1D9&dates=8B949E" width="80%" />
+<img src="https://streak-stats.demolab.com/?user=PSYX808&hide_border=false&background=0D1117&border=8B00FF&stroke=00FF41&ring=FF2E97&fire=FFB300&currStreakNum=00E5FF&sideNums=00FF41&currStreakLabel=FF2E97&sideLabels=C9D1D9&dates=8B949E" width="80%" />
 
-<!-- ACTIVITY GRAPH · multicolor -->
+<!-- ░░░  ACTIVITY GRAPH · multicolor  ░░░ -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSYX808&bg_color=0D1117&color=00E5FF&line=8B00FF&point=00FF41&area=true&area_color=FF2E97&hide_border=true&title_color=FFB300" width="95%" />
 
-<!-- TROPHIES -->
+<!-- ░░░  TROPHIES  ░░░ -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=PSYX808&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,24,20,12,6&section=header" width="80%" />
 
-<!-- SNAKE · needs the snake GitHub Action (ask me for the YAML) -->
+<!-- ░░░  SNAKE · needs the snake GitHub Action (ask me for the YAML)  ░░░ -->
 
 <img src="https://raw.githubusercontent.com/PSYX808/PSYX808/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
-<!-- FOOTER · connect -->
+<!-- ░░░░░░░░░░░░░░░░░░░  FOOTER · connect  ░░░░░░░░░░░░░░░░░░░ -->
 
 ### `>_ open a socket`
 
