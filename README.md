@@ -105,7 +105,9 @@ psyx808@matrix:~$ cat /etc/motd
 
 <!-- ░░░  SNAKE · needs the snake GitHub Action (ask me for the YAML)  ░░░ -->
 
+<!--
 <img src="https://raw.githubusercontent.com/PSYX808/PSYX808/output/github-contribution-grid-snake-dark.svg" width="95%" />
+-->
 
 <!-- ░░░░░░░░░░░░░░░░░░░  FOOTER · connect  ░░░░░░░░░░░░░░░░░░░ -->
 
