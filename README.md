@@ -123,7 +123,7 @@ psyx808@matrix:~$ cat /etc/motd
 + Stay curious - Explore - Experiment - Break - Learn - Document everything +
 ```
 
-<img src="https://komarev.com/ghpvc/?username=PSYX808&style=for-the-badge&color=8B00FF&label=SIGNALS+RECEIVED" />
+<img src="https://komarev.com/ghpvc/?username=PSYX808&style=for-the-badge&color=8B00FF&label=VIEWS" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20,24,0&section=footer&reversal=true" width="100%" />
 
