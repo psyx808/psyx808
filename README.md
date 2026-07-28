@@ -70,10 +70,10 @@ psyx808@matrix:~$ cat /etc/motd
 <!-- METRICS · telemetry -->
 
 ### `>_ telemetry`
-
+<!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PSYX808&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00E5FF&icon_color=FF2E97&text_color=C9D1D9&border_color=8B00FF" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSYX808&layout=compact&hide_border=false&bg_color=0D1117&title_color=FFB300&text_color=C9D1D9&border_color=00FF41" />
-
+-->
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=PSYX808&hide_border=false&background=0D1117&border=8B00FF&stroke=00FF41&ring=FF2E97&fire=FFB300&currStreakNum=00E5FF&sideNums=00FF41&currStreakLabel=FF2E97&sideLabels=C9D1D9&dates=8B949E" width="80%" />
