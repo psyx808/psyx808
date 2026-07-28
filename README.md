@@ -110,9 +110,8 @@ psyx808@matrix:~$ cat /etc/motd
 [![Matrix](https://img.shields.io/badge/matrix-00E5FF?style=for-the-badge&logo=matrix&logoColor=black)](https://matrix.to/#/@psyx808:matrix.org)
 
 <br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=4000&pause=1200&color=00FF41&center=true&vCenter=true&repeat=false&width=900&height=45&lines=%2B+Stay+curious+-+Explore+-+Experiment+-+Break+-+Learn+-+Document+everything+%2B" width="90%" />
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=PSYX808&style=for-the-badge&color=8B00FF&label=VIEWS" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20,24,0&section=footer&reversal=true" width="100%" />
